@@ -36,7 +36,7 @@ const Body = () => {
             // navigate("/browse");
         }
         });
-    }, []);
+    }, [dispatch]);
   return (
     <div>
         <RouterProvider router={appRouter} />

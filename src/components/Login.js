@@ -31,6 +31,7 @@ const Login = () => {
         // Signed in 
       const user = userCredential.user;
         navidate('/browse')
+        console.log(user)
       })
       .catch((error) => {
         const errorCode = error.code;

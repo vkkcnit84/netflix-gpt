@@ -16,7 +16,8 @@ const useGetTrailer = (id) => {
 
   useEffect(() => {
         getTrailer();
-  }, [])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
 }
 
