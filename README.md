@@ -1,3 +1,20 @@
+Create React App
+Configured TailwindCSS
+Header
+Routing of App
+Login Form
+Sign up Form
+
+Form Validation
+useRef Hook
+Firebase Setup
+Deploying our app to production
+Create SignUp User Account
+Implement Sign In user Api
+Created Redux Store with userSlice 
+    npm i -D @reduxjs/toolkit
+    npm i react-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
